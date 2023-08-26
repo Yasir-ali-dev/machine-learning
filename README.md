@@ -1,1 +1,1 @@
-# classical machine-learning algoriyhms repository
+# classical machine-learning repository
